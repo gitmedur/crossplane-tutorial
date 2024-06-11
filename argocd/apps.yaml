@@ -17,6 +17,6 @@ spec:
     namespace: a-team
   syncPolicy:
     automated:
-      selfHeal: true
+      selfHeal: false
       prune: true
       allowEmpty: true
