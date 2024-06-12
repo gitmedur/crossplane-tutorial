@@ -51,4 +51,4 @@ spec:
     dbSecret:
       name: silly-demo-db
       namespace: a-team
-    kubernetesProviderConfigName: cluster01"
+    kubernetesProviderConfigName: cluster-01
